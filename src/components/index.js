@@ -4,6 +4,7 @@ import Particles from "./Particles";
 
 const Home = () => {
   return (
+    
     <React.Fragment>
       <Header />
       <Particles />
