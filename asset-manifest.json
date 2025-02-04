@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AhsanPortfolio/static/css/main.b7653e6c.css",
+    "main.js": "/AhsanPortfolio/static/js/main.3cea04c8.js",
+    "static/media/coffee-apple.jpg": "/AhsanPortfolio/static/media/coffee-apple.a0c19713a15fff3f3cff.jpg",
+    "static/media/react.png": "/AhsanPortfolio/static/media/react.e3c4d28a8f7c5cce174e.png",
+    "static/media/html-css-javascript-lg.jpg": "/AhsanPortfolio/static/media/html-css-javascript-lg.91568b1416dddce7652e.jpg",
+    "static/media/javascript-fullstack.jpg": "/AhsanPortfolio/static/media/javascript-fullstack.f5822e7b22d28ca8d914.jpg",
+    "static/media/react-redux.jpg": "/AhsanPortfolio/static/media/react-redux.fb61d4562a822c5bb24c.jpg",
+    "static/media/mern-stack.jpg": "/AhsanPortfolio/static/media/mern-stack.64b9cbddb7ab105f03de.jpg",
+    "static/media/avatar.png": "/AhsanPortfolio/static/media/avatar.d94025aac6e87c5e1840.png",
+    "static/media/html-css-javascript.jpg": "/AhsanPortfolio/static/media/html-css-javascript.3ead675491c2e51d9976.jpg",
+    "index.html": "/AhsanPortfolio/index.html",
+    "main.b7653e6c.css.map": "/AhsanPortfolio/static/css/main.b7653e6c.css.map",
+    "main.3cea04c8.js.map": "/AhsanPortfolio/static/js/main.3cea04c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7653e6c.css",
+    "static/js/main.3cea04c8.js"
+  ]
+}
