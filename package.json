@@ -1,6 +1,6 @@
 {
   "homepage": "https://zaidi663.github.io/AhsanPortfolio",
-  "name": "myportfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "react-scripts": "^5.0.1",
     "react-typed": "^1.2.0"
   },
- "scripts": {
+"scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "start": "react-scripts --openssl-legacy-provider start",
@@ -27,6 +27,7 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
+
 
   "eslintConfig": {
     "extends": "react-app"
