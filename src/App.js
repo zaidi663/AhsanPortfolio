@@ -16,7 +16,7 @@ function App() {
       <Navbar />
       <Router>  {/* Changed BrowserRouter to HashRouter */}
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="Home/" component={Home} />
           <Route exact path="/resume" component={Resume} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
